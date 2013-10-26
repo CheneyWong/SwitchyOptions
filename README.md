@@ -1,1 +1,1 @@
-https://raw.github.com/Foredoomed/SwitchyOptions/master/SwitchyOptions.bak
+https://raw.github.com/ChanneW/SwitchyOptions/master/SwitchyOptions.bak
